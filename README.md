@@ -1,6 +1,6 @@
 # Bmi-hesaplayici
 <p>
-<img src="assets/1.jpeg" width=250px height=500px>
+<img src="assets/1.jpg" width=250px height=500px>
 
 </p>
 A new Flutter project.
