@@ -12,7 +12,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/usain301/Travel_App_Ui.git
+$ git clone https://github.com/usain301/Bmi-hesaplayici.git
 
 # Access
 $ cd Bmi-hesaplayici
